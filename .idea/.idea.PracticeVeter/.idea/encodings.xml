@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Source/PracticeVeter/TestingEditor/ActorNoUTF16InCopyright_editor.cpp" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/Source/PracticeVeter/TestingEditor/ActorWithCopyRightUTF16_Editor.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Source/PracticeVeter/TestingEditor/ActorWithCopyRightUTF16_Editor.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Source/PracticeVeter/TestingEditor/MyClass.cpp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Source/PracticeVeter/TestingEditor/MyClass.h" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
